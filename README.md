@@ -47,13 +47,4 @@ python train.py --data_path "$DATA_PATH" --data_name "$DATA_NAME" --logger_name 
 Modify the corresponding arguments in `eval.py` and run `python eval.py`.
 
 
-Please use the following bib entry to cite this paper if you are using any resources from the repo.
-```
-@article{zhu2025psmc,
-  title={Position-Aware Self-Attention with Momentum Contrast for Semantic-Augmented Cross-Modal Retrieval},
-  author={Zhu, },
-  journal={IEEE Transactions on Image Processing},
-  year={2025},
-  publisher={IEEE}
-}
-```
+
